@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: fixed url(Media/mainBackground.jpg);
+    background-color: rgb(254, 82, 82);
+    background-size: 100%;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: large;
+}
+
+header {
+    background-color: rgb(254, 82, 82);
+    width: 100%;
+    height: 150px;
+    position: fixed;
+    margin-bottom: 22vh;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.organic {
+    height: 200px;
+}
+
+.main {
+    
+}
+
+.main p {
+    margin: 10px 0px;
+}
+
+.logo {
+    height: 120px;
+    cursor: pointer;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    margin: 60px 10px;
+}
